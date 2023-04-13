@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "dist/lib/LiveBeansCommon.jar",
+        "dist/lib/mockito-core-5.2.0.jar",
+        "dist/lib/mockito-all-2.0.2-beta.jar",
+        "dist/lib/junit-4.13.2.jar",
+        "dist/LiveBeansServer.jar"
+    ]
+}
